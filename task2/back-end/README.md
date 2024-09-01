@@ -1,0 +1,1 @@
+Docker image creating directory.
